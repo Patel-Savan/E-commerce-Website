@@ -1,6 +1,6 @@
 # HOUSE-OF-FITNESS
 
-Hi! My name is **Vraj Mistry**, I have created this web site using MERN Stack.
+Hi! My name is **Savan Patel**, I have created this web site using MERN Stack.
 
 
 # TO USE IT ON YOUR MACHINE FOLLOW THE BELOW MENTIONED STEPS:
@@ -35,4 +35,4 @@ _fill each filed with your info respectively_
 
 ## Author
 
-**LinkedIn** Click [Here](https://www.linkedin.com/in/vraj-mistry-3127501b6/) **@VrajMistry0311**
+**LinkedIn** Click [Here](https://www.linkedin.com/in/savan-patel-6a0b17217/) **@Savan-Patel**
