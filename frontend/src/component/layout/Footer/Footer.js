@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="rightFooter">
         <h4>Follow Me</h4>
         <a target="blank" href="https://github.com/Patel-Savan">GitHub</a>
-        <a target="blank" href="https://www.facebook.com/savan.patel.37">Facebook</a>
+        <a target="blank" href="https://www.facebook.com/profile.php?id=100009297031652&mibextid=ZbWKwL">Facebook</a>
         <a target="blank" href="https://www.linkedin.com/in/savan-patel-6a0b17217/">LinkedIn</a>
       </div>
     </footer>
